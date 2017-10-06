@@ -1,1 +1,1 @@
-# closed-maze-generator
+This program generates a closed maze (Not designed to have a start or end), the maze needs some touch up as it is not perfict, but this program gives a good start to creating multiple paths to and from any given point
